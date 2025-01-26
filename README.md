@@ -21,7 +21,7 @@ The following hyperparameters were tuned for the training process
 - Learning rate (`lr`): 1 × 10⁻³  
 
 My model architecture consists of 28,579,448 trainable parameters. Training is conducted over 50 epochs to ensure adequate convergence.
-- **Step 6 Teting:** My test perplexity result is 78.050, which indicates that the model exhibits some level of ambiguity in its predictions. This suggests that the model is moderately uncertain when predicting the next token in the sequence.
+- **Step 6 Testing:** My test perplexity result is 78.050, which indicates that the model exhibits some level of ambiguity in its predictions. This suggests that the model is moderately uncertain when predicting the next token in the sequence.
 
 ## Getting Started: Launching the Application
 - Step1 : Download model files from this link : https://drive.google.com/file/d/1sLretpcS-GiktkmeyPRI_f336Bu4tvME/view?usp=share_link
