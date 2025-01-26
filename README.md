@@ -36,4 +36,4 @@ My model architecture consists of 28,579,448 trainable parameters. Training is c
 
 
 ## Citation: https://huggingface.co/datasets/myamjechal/star-wars-dataset
-### FYI: The .plt file cannot attache to Github because this file is too large for Github can handle.
+### FYI: The .pt file cannot attache to Github because this file is too large for Github can handle.
